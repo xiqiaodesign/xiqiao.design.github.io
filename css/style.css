@@ -142,13 +142,14 @@ div.top {
     width: 200px;
     box-sizing: border-box;
     padding-left: 25px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .topmiddle {
     text-align: left;
     width: calc(100% - 260px);
     font-size: 14px;
+    padding-left: 10px;
     /* Adjusted to account for left and right padding */
 }
 
@@ -212,7 +213,7 @@ aside.sidenav {
     width: 180px;
     box-sizing: border-box;
     padding-left: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 aside.sidenav a {
